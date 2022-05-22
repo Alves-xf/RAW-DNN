@@ -1,9 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 25 19:08:40 2018
+'''
+@File    :   main.py
+@Contact :   moyanxuanliu@126.com
+@License :   (C)Copyright 2021-2022, ZongfangLiu
 
-@author: jtguan@stu.xidian.edu.cn
-"""
+@Modify Time      @Author    @Version    @Desciption
+------------      -------    --------    -----------
+2022/3/24 22:55   zfliu      1.0         None
+'''
 
 
 from keras import backend as K
